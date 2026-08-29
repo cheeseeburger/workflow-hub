@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+backend/uploads/
+ml-service/venv/
+ml-service/__pycache__/
+ml-service/classifier.joblib
+*.log
+.DS_Store
