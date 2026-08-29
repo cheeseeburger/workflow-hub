@@ -76,3 +76,7 @@ approved documents just won't sync until it's set up.
 ## Tech stack
 React, Vite, Node.js, Express, MongoDB, Mongoose, JWT auth, Python, FastAPI,
 scikit-learn, Microsoft Graph API.
+<img width="1142" height="648" alt="image" src="<img width="1160" height="656" alt="image" src="https://github.com/user-attachments/assets/e0213a30-3325-4024-bb90-455d301f03c5" />
+" />
+<img width="1160" height="656" alt="image" src="https://github.com/user-attachments/assets/ea6be073-0e8e-4c2e-bbd3-bcf435649c44" />
+
